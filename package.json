@@ -1,0 +1,13 @@
+{
+  "name": "ip-to-string",
+  "version": "0.0.1",
+  "description": "Convert an integer IP address to its dot-decimal string representation, eg `0x7F000001` to `127.0.0.1`",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "repository" : "github:AndreasPizsa/ip-to-string",
+  "author": "Andreas Pizsa (https://github.com/AndreasPizsa)",
+  "keywords" : ["ip","ip address","dot","dot-decimal","dotted","string","ip to string"],
+  "license": "MIT"
+}
