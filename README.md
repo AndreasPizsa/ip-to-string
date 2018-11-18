@@ -1,5 +1,8 @@
 ip-to-string
 ============
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/AndreasPizsa/ip-to-string.svg)](https://greenkeeper.io/)
+
 > Convert an integer IP address to its dot-decimal string representation, eg `0x7F000001` to `127.0.0.1`
 
 ![Travis](https://img.shields.io/travis/AndreasPizsa/ip-to-string.svg?style=flat-square)
